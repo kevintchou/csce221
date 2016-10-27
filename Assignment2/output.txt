@@ -1,0 +1,647 @@
+Unsorted sequence:
+89
+85
+81
+33
+51
+3
+62
+75
+7
+5
+58
+78
+52
+69
+26
+33
+11
+75
+61
+93
+53
+4
+46
+82
+82
+14
+60
+33
+25
+38
+44
+20
+95
+73
+83
+29
+94
+85
+24
+75
+83
+6
+75
+58
+90
+89
+86
+7
+27
+51
+82
+46
+70
+68
+57
+77
+6
+11
+42
+16
+41
+85
+11
+77
+19
+3
+19
+80
+82
+13
+23
+95
+26
+39
+54
+19
+50
+99
+91
+8
+19
+41
+26
+34
+96
+76
+60
+87
+91
+29
+14
+20
+14
+57
+72
+44
+63
+64
+97
+23
+
+2591
+num_cmps= 0
+num_cmps= 1
+num_cmps= 2
+num_cmps= 3
+num_cmps= 4
+num_cmps= 5
+num_cmps= 6
+num_cmps= 7
+num_cmps= 8
+num_cmps= 9
+num_cmps= 10
+num_cmps= 11
+num_cmps= 12
+num_cmps= 13
+num_cmps= 14
+num_cmps= 15
+num_cmps= 16
+num_cmps= 17
+num_cmps= 18
+num_cmps= 19
+num_cmps= 20
+num_cmps= 21
+num_cmps= 22
+num_cmps= 23
+num_cmps= 24
+num_cmps= 25
+num_cmps= 26
+num_cmps= 27
+num_cmps= 28
+num_cmps= 29
+num_cmps= 30
+num_cmps= 31
+num_cmps= 32
+num_cmps= 33
+num_cmps= 34
+num_cmps= 35
+num_cmps= 36
+num_cmps= 37
+num_cmps= 38
+num_cmps= 39
+num_cmps= 40
+num_cmps= 41
+num_cmps= 42
+num_cmps= 43
+num_cmps= 44
+num_cmps= 45
+num_cmps= 46
+num_cmps= 47
+num_cmps= 48
+num_cmps= 49
+num_cmps= 50
+num_cmps= 51
+num_cmps= 52
+num_cmps= 53
+num_cmps= 54
+num_cmps= 55
+num_cmps= 56
+num_cmps= 57
+num_cmps= 58
+num_cmps= 59
+num_cmps= 60
+num_cmps= 61
+num_cmps= 62
+num_cmps= 63
+num_cmps= 64
+num_cmps= 65
+num_cmps= 66
+num_cmps= 67
+num_cmps= 68
+num_cmps= 69
+num_cmps= 70
+num_cmps= 71
+num_cmps= 72
+num_cmps= 73
+num_cmps= 74
+num_cmps= 75
+num_cmps= 76
+num_cmps= 77
+num_cmps= 78
+num_cmps= 79
+num_cmps= 80
+num_cmps= 81
+num_cmps= 82
+num_cmps= 83
+num_cmps= 84
+num_cmps= 85
+num_cmps= 86
+num_cmps= 87
+num_cmps= 88
+num_cmps= 89
+num_cmps= 90
+num_cmps= 91
+num_cmps= 92
+num_cmps= 93
+num_cmps= 94
+num_cmps= 95
+num_cmps= 96
+num_cmps= 97
+num_cmps= 98
+num_cmps= 99
+num_cmps= 100
+num_cmps= 101
+num_cmps= 102
+num_cmps= 103
+num_cmps= 104
+num_cmps= 105
+num_cmps= 106
+num_cmps= 107
+num_cmps= 108
+num_cmps= 109
+num_cmps= 110
+num_cmps= 111
+num_cmps= 112
+num_cmps= 113
+num_cmps= 114
+num_cmps= 115
+num_cmps= 116
+num_cmps= 117
+num_cmps= 118
+num_cmps= 119
+num_cmps= 120
+num_cmps= 121
+num_cmps= 122
+num_cmps= 123
+num_cmps= 124
+num_cmps= 125
+num_cmps= 126
+num_cmps= 127
+num_cmps= 128
+num_cmps= 129
+num_cmps= 130
+num_cmps= 131
+num_cmps= 132
+num_cmps= 133
+num_cmps= 134
+num_cmps= 135
+num_cmps= 136
+num_cmps= 137
+num_cmps= 138
+num_cmps= 139
+num_cmps= 140
+num_cmps= 141
+num_cmps= 142
+num_cmps= 143
+num_cmps= 144
+num_cmps= 145
+num_cmps= 146
+num_cmps= 147
+num_cmps= 148
+num_cmps= 149
+num_cmps= 150
+num_cmps= 151
+num_cmps= 152
+num_cmps= 153
+num_cmps= 154
+num_cmps= 155
+num_cmps= 156
+num_cmps= 157
+num_cmps= 158
+num_cmps= 159
+num_cmps= 160
+num_cmps= 161
+num_cmps= 162
+num_cmps= 163
+num_cmps= 164
+num_cmps= 165
+num_cmps= 166
+num_cmps= 167
+num_cmps= 168
+num_cmps= 169
+num_cmps= 170
+num_cmps= 171
+num_cmps= 172
+num_cmps= 173
+num_cmps= 174
+num_cmps= 175
+num_cmps= 176
+num_cmps= 177
+num_cmps= 178
+num_cmps= 179
+num_cmps= 180
+num_cmps= 181
+num_cmps= 182
+num_cmps= 183
+num_cmps= 184
+num_cmps= 185
+num_cmps= 186
+num_cmps= 187
+num_cmps= 188
+num_cmps= 189
+num_cmps= 190
+num_cmps= 191
+num_cmps= 192
+num_cmps= 193
+num_cmps= 194
+num_cmps= 195
+num_cmps= 196
+num_cmps= 197
+num_cmps= 198
+num_cmps= 199
+num_cmps= 200
+num_cmps= 201
+num_cmps= 202
+num_cmps= 203
+num_cmps= 204
+num_cmps= 205
+num_cmps= 206
+num_cmps= 207
+num_cmps= 208
+num_cmps= 209
+num_cmps= 210
+num_cmps= 211
+num_cmps= 212
+num_cmps= 213
+num_cmps= 214
+num_cmps= 215
+num_cmps= 216
+num_cmps= 217
+num_cmps= 218
+num_cmps= 219
+num_cmps= 220
+num_cmps= 221
+num_cmps= 222
+num_cmps= 223
+num_cmps= 224
+num_cmps= 225
+num_cmps= 226
+num_cmps= 227
+num_cmps= 228
+num_cmps= 229
+num_cmps= 230
+num_cmps= 231
+num_cmps= 232
+num_cmps= 233
+num_cmps= 234
+num_cmps= 235
+num_cmps= 236
+num_cmps= 237
+num_cmps= 238
+num_cmps= 239
+num_cmps= 240
+num_cmps= 241
+num_cmps= 242
+num_cmps= 243
+num_cmps= 244
+num_cmps= 245
+num_cmps= 246
+num_cmps= 247
+num_cmps= 248
+num_cmps= 249
+num_cmps= 250
+num_cmps= 251
+num_cmps= 252
+num_cmps= 253
+num_cmps= 254
+num_cmps= 255
+num_cmps= 256
+num_cmps= 257
+num_cmps= 258
+num_cmps= 259
+num_cmps= 260
+num_cmps= 261
+num_cmps= 262
+num_cmps= 263
+num_cmps= 264
+num_cmps= 265
+num_cmps= 266
+num_cmps= 267
+num_cmps= 268
+num_cmps= 269
+num_cmps= 270
+num_cmps= 271
+num_cmps= 272
+num_cmps= 273
+num_cmps= 274
+num_cmps= 275
+num_cmps= 276
+num_cmps= 277
+num_cmps= 278
+num_cmps= 279
+num_cmps= 280
+num_cmps= 281
+num_cmps= 282
+num_cmps= 283
+num_cmps= 284
+num_cmps= 285
+num_cmps= 286
+num_cmps= 287
+num_cmps= 288
+num_cmps= 289
+num_cmps= 290
+num_cmps= 291
+num_cmps= 292
+num_cmps= 293
+num_cmps= 294
+num_cmps= 295
+num_cmps= 296
+num_cmps= 297
+num_cmps= 298
+num_cmps= 299
+num_cmps= 300
+num_cmps= 301
+num_cmps= 302
+num_cmps= 303
+num_cmps= 304
+num_cmps= 305
+num_cmps= 306
+num_cmps= 307
+num_cmps= 308
+num_cmps= 309
+num_cmps= 310
+num_cmps= 311
+num_cmps= 312
+num_cmps= 313
+num_cmps= 314
+num_cmps= 315
+num_cmps= 316
+num_cmps= 317
+num_cmps= 318
+num_cmps= 319
+num_cmps= 320
+num_cmps= 321
+num_cmps= 322
+num_cmps= 323
+num_cmps= 324
+num_cmps= 325
+num_cmps= 326
+num_cmps= 327
+num_cmps= 328
+num_cmps= 329
+num_cmps= 330
+num_cmps= 331
+num_cmps= 332
+num_cmps= 333
+num_cmps= 334
+num_cmps= 335
+num_cmps= 336
+num_cmps= 337
+num_cmps= 338
+num_cmps= 339
+num_cmps= 340
+num_cmps= 341
+num_cmps= 342
+num_cmps= 343
+num_cmps= 344
+num_cmps= 345
+num_cmps= 346
+num_cmps= 347
+num_cmps= 348
+num_cmps= 349
+num_cmps= 350
+num_cmps= 351
+num_cmps= 352
+num_cmps= 353
+num_cmps= 354
+num_cmps= 355
+num_cmps= 356
+num_cmps= 357
+num_cmps= 358
+num_cmps= 359
+num_cmps= 360
+num_cmps= 361
+num_cmps= 362
+num_cmps= 363
+num_cmps= 364
+num_cmps= 365
+num_cmps= 366
+num_cmps= 367
+num_cmps= 368
+num_cmps= 369
+num_cmps= 370
+num_cmps= 371
+num_cmps= 372
+num_cmps= 373
+num_cmps= 374
+num_cmps= 375
+num_cmps= 376
+num_cmps= 377
+num_cmps= 378
+num_cmps= 379
+num_cmps= 380
+num_cmps= 381
+num_cmps= 382
+num_cmps= 383
+num_cmps= 384
+num_cmps= 385
+num_cmps= 386
+num_cmps= 387
+num_cmps= 388
+num_cmps= 389
+num_cmps= 390
+num_cmps= 391
+num_cmps= 392
+num_cmps= 393
+num_cmps= 394
+num_cmps= 395
+num_cmps= 396
+num_cmps= 397
+num_cmps= 398
+num_cmps= 399
+num_cmps= 400
+num_cmps= 401
+num_cmps= 402
+num_cmps= 403
+num_cmps= 404
+num_cmps= 405
+num_cmps= 406
+num_cmps= 407
+num_cmps= 408
+num_cmps= 409
+num_cmps= 410
+num_cmps= 411
+num_cmps= 412
+num_cmps= 413
+num_cmps= 414
+num_cmps= 415
+num_cmps= 416
+num_cmps= 417
+num_cmps= 418
+num_cmps= 419
+num_cmps= 420
+num_cmps= 421
+num_cmps= 422
+num_cmps= 423
+num_cmps= 424
+num_cmps= 425
+num_cmps= 426
+num_cmps= 427
+num_cmps= 428
+num_cmps= 429
+num_cmps= 430
+num_cmps= 431
+num_cmps= 432
+num_cmps= 433
+num_cmps= 434
+num_cmps= 435
+num_cmps= 436
+num_cmps= 437
+Sorted sequence:
+3
+3
+4
+5
+6
+6
+7
+7
+8
+11
+11
+11
+13
+14
+14
+14
+16
+19
+19
+19
+19
+20
+20
+23
+23
+24
+25
+26
+26
+26
+27
+29
+29
+33
+33
+33
+34
+38
+39
+41
+41
+42
+44
+44
+46
+46
+50
+51
+51
+52
+53
+54
+57
+57
+58
+58
+60
+60
+61
+62
+63
+64
+68
+69
+70
+72
+73
+75
+75
+75
+75
+76
+77
+77
+78
+80
+81
+82
+82
+82
+82
+83
+83
+85
+85
+85
+86
+87
+89
+89
+90
+91
+91
+93
+94
+95
+95
+96
+97
+99
+
+Running time: 0.00245248 ms
+2591
+102592
+# Comparisons: 0
